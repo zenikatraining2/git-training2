@@ -18,3 +18,6 @@ Technolgies web :
 - Wicket
 - Strust2
 - JSF
+
+Application lourde :
+Technologie Swing

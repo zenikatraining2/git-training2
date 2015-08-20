@@ -17,3 +17,4 @@ Technolgies web :
 - Servlet & JSP
 - Wicket
 - Strust2
+- JSF
